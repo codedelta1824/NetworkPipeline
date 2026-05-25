@@ -1,0 +1,77 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Logs & Runtime Files
+# =========================
+*.log
+*.out
+*.err
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Testing / Coverage
+# =========================
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Project-Specific (Your Pipeline)
+# =========================
+
+# Ignore runtime output files
+Test Cases/Results/*.csv
+*.txt
+
+# Ignore all JSON except sample test files
+*.json
+!Test Cases/sample_events_1.json
+
+# =========================
+# Misc
+# =========================
+*.bak
+*.tmp

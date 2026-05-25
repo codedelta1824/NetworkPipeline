@@ -35,4 +35,4 @@ The system is designed for *learning purposes* and is fully self-contained, lega
 
 ## Contact
 
-For questions about contributions or details of the project, contact the repository owner at: codedev.nexus24@gmail.com.
+For questions about contributions or details of the project, contact the repository owner at: codedelta1824@gmail.com.
